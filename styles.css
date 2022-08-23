@@ -160,6 +160,7 @@ aside {
   box-sizing: border-box;
   position: absolute;
   right: 0;
+  background-color: var(--white);
 }
 /** ShoppingCard */
 #shoppingCartContainer{
